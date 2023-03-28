@@ -1,0 +1,16 @@
+输入：vim ~/.vimrc
+打开文件后输入：
+set tabstop=4
+
+set softtabstop=4
+
+set shiftwidth=4
+
+set noexpandtab
+
+set nu
+
+set autoindent
+
+set cindent
+然后保存关闭终端，重新打开。
